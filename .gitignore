@@ -1,0 +1,56 @@
+# =========================
+# macOS system files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# =========================
+# Build artifacts (C / general)
+# =========================
+# Object files
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# Executables
+dagger
+a.out
+
+# Debug symbols
+*.dSYM/
+
+# =========================
+# Editor files
+# =========================
+
+# VS Code
+.vscode/
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+
